@@ -1,6 +1,6 @@
 This projects was done by me from March.2017 to June.2017. Data was provided by director of Luyuyouyue, a well-known TV show in China,
 
-Brief Introduction and backgroud
+Brief Introduction and background
 
 As an important resource of information for specifying video content, the title keywords of video have a strong impact on the playback amount of that video. Although there is a great theoretical and practical value, the techniques of playback amount prediction through keywords analysis are not mature and their researches are not yet in-depth. Based on the average weekly playback amount of a short video, it is classified as popular video or non-popular video. 
 
